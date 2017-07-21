@@ -1,0 +1,18 @@
+addFive():
+-check if the input is number (with string)
+-check if the input is positive number
+-check if the input is negative number
+-check if the input is floating point number
+
+subtractTen():
+-check if the input is number (with string)
+-check if the input is positive number
+-check if the input is negative number
+-check if the input is floating point number
+
+sum():
+-check if the input 1 is number (with string)
+-check if the input 2 is number (with string)
+-check if the input is positive number
+-check if the input is negative number
+-check if the input is floating point number
